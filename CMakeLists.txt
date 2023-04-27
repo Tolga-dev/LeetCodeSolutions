@@ -3,4 +3,16 @@ project(LeetCodeSolutions)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(LeetCodeSolutions main.cpp)
+find_package(benchmark REQUIRED)
+
+if(benchmark_FOUND)
+    message("hello")
+ENDIF()
+
+
+add_executable(LeetCodeSolutions Onprocess/WordBreak.cpp)
+
+
+target_link_libraries(LeetCodeSolutions benchmark::benchmark)
+
+
