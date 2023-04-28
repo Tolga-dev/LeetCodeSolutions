@@ -9,9 +9,7 @@ if(benchmark_FOUND)
     message("hello")
 ENDIF()
 
-
-add_executable(LeetCodeSolutions Onprocess/WordBreak.cpp)
-
+add_executable(LeetCodeSolutions SimilarStringGroups.cpp)
 
 target_link_libraries(LeetCodeSolutions benchmark::benchmark)
 
