@@ -27,7 +27,7 @@
 2	2407	1680696452121471931	CMakeFiles/LeetCodeSolutions.dir/MinimizeMaximumofArray.cpp.o	972e503ceef8962c
 1	1851	1682609446557413581	CMakeFiles/LeetCodeSolutions.dir/WordBreak.cpp.o	ba4c72b911b0599b
 2	4094	1679575181673310101	CMakeFiles/LeetCodeSolutions.dir/Dynamic/DecodeWays.cpp.o	1febed48075c22dc
-0	53	1682617054567709910	build.ninja	d33d1547cd2036e5
+0	53	1682697476107032148	build.ninja	d33d1547cd2036e5
 0	4499	1680278581554115725	CMakeFiles/LeetCodeSolutions.dir/Dynamic/ScrambleString.cpp.o	e554e0861276da9b
 1	1628	1678897581418788128	CMakeFiles/LeetCodeSolutions.dir/nextGreater3.cpp.o	bd242d22bbd05ef1
 1	1665	1680704905926698724	CMakeFiles/LeetCodeSolutions.dir/FindFirstandLastPositionofElementinSortedArray.cpp.o	7e1bd6b57b53d7c9
@@ -42,6 +42,7 @@
 0	486	1669141472899057687	CMakeFiles/LeetCodeSolutions.dir/DecodeWays/main.cpp.o	6d22dac9ec42f9a5
 1	2589	1679066854324401183	CMakeFiles/LeetCodeSolutions.dir/JumpGame.cpp.o	5cd87e1a5bb6a1bc
 0	1618	1680621361563357916	CMakeFiles/LeetCodeSolutions.dir/Dynamic/LargestRectangleinHistogram.cpp.o	4b3dbe2f6abc70db
+2	4194	1682697136149166605	CMakeFiles/LeetCodeSolutions.dir/SimilarStringGroups.cpp.o	50cbf2e0503ec10f
 1	4502	1680539606955042213	CMakeFiles/LeetCodeSolutions.dir/CodeWats/InsaneColouredTriangles.cpp.o	cb2886ee01986ae9
 1	2611	1680442875671031862	CMakeFiles/LeetCodeSolutions.dir/KthLargestElementInArray.cpp.o	3f03931ac3372518
 1	1634	1679059809495863800	CMakeFiles/LeetCodeSolutions.dir/CountCompleteTreeNodes.cpp.o	1357a2e3da1cba1e
@@ -66,7 +67,7 @@
 1	1946	1678893372536610315	CMakeFiles/LeetCodeSolutions.dir/NextGreater2.cpp.o	78b2773d15142e
 0	1733	1681398188340305247	CMakeFiles/LeetCodeSolutions.dir/ReachableNodesInSubdividedGraph.cpp.o	e0de5bac9b5ed8a
 0	1853	1681136017171478897	CMakeFiles/LeetCodeSolutions.dir/battleships-field-validator.cpp.o	8ee254ccd49aec7b
-1851	1929	1682609446637414128	LeetCodeSolutions	d587448180ae2e7b
+4195	4355	1682697136309167104	LeetCodeSolutions	fd0e2e1462c3e9a
 2	4617	1678885449219081865	CMakeFiles/LeetCodeSolutions.dir/main.cpp.o	215a337de3b8d097
 1	1691	1679488878295025562	CMakeFiles/LeetCodeSolutions.dir/Fibonacci.cpp.o	38b0cd30e0172808
 1	1638	1680434128670542838	CMakeFiles/LeetCodeSolutions.dir/SuccessfulPairsOfSpellsAndPotions.cpp.o	b6ebdecc5b4f4d0b
