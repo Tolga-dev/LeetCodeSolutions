@@ -49,12 +49,12 @@ cmake_ninja_workdir = /home/xamblot/CLionProjects/LeetCodeSolutions/cmake-build-
 
 build cmake_object_order_depends_target_LeetCodeSolutions: phony || CMakeFiles/LeetCodeSolutions.dir
 
-build CMakeFiles/LeetCodeSolutions.dir/Contest103/makeEmpty2659.cpp.o: CXX_COMPILER__LeetCodeSolutions_Debug /home/xamblot/CLionProjects/LeetCodeSolutions/Contest103/makeEmpty2659.cpp || cmake_object_order_depends_target_LeetCodeSolutions
+build CMakeFiles/LeetCodeSolutions.dir/Contests/WeeklyContest343/2662MinimumCostofaPathWithSpecialRoads.cpp.o: CXX_COMPILER__LeetCodeSolutions_Debug /home/xamblot/CLionProjects/LeetCodeSolutions/Contests/WeeklyContest343/2662MinimumCostofaPathWithSpecialRoads.cpp || cmake_object_order_depends_target_LeetCodeSolutions
   DEFINES = -DBENCHMARK_STATIC_DEFINE
-  DEP_FILE = CMakeFiles/LeetCodeSolutions.dir/Contest103/makeEmpty2659.cpp.o.d
+  DEP_FILE = CMakeFiles/LeetCodeSolutions.dir/Contests/WeeklyContest343/2662MinimumCostofaPathWithSpecialRoads.cpp.o.d
   FLAGS = -g -std=gnu++2a
   OBJECT_DIR = CMakeFiles/LeetCodeSolutions.dir
-  OBJECT_FILE_DIR = CMakeFiles/LeetCodeSolutions.dir/Contest103
+  OBJECT_FILE_DIR = CMakeFiles/LeetCodeSolutions.dir/Contests/WeeklyContest343
 
 
 # =============================================================================
@@ -64,7 +64,7 @@ build CMakeFiles/LeetCodeSolutions.dir/Contest103/makeEmpty2659.cpp.o: CXX_COMPI
 #############################################
 # Link the executable LeetCodeSolutions
 
-build LeetCodeSolutions: CXX_EXECUTABLE_LINKER__LeetCodeSolutions_Debug CMakeFiles/LeetCodeSolutions.dir/Contest103/makeEmpty2659.cpp.o | /usr/local/lib/libbenchmark.a
+build LeetCodeSolutions: CXX_EXECUTABLE_LINKER__LeetCodeSolutions_Debug CMakeFiles/LeetCodeSolutions.dir/Contests/WeeklyContest343/2662MinimumCostofaPathWithSpecialRoads.cpp.o | /usr/local/lib/libbenchmark.a
   FLAGS = -g
   LINK_LIBRARIES = /usr/local/lib/libbenchmark.a  -lpthread  -lrt
   OBJECT_DIR = CMakeFiles/LeetCodeSolutions.dir
