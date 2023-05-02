@@ -9,7 +9,7 @@ if(benchmark_FOUND)
     message("hello")
 ENDIF()
 
-add_executable(LeetCodeSolutions Contests/WeeklyContest343/2662MinimumCostofaPathWithSpecialRoads.cpp)
+add_executable(LeetCodeSolutions 2654MinimumNumberofOperationstoMakeAllArrayElementsEqualto1.cpp)
 
 target_link_libraries(LeetCodeSolutions benchmark::benchmark)
 
