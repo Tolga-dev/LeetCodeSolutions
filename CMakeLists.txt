@@ -9,7 +9,7 @@ if(benchmark_FOUND)
     message("hello")
 ENDIF()
 
-add_executable(LeetCodeSolutions 2654MinimumNumberofOperationstoMakeAllArrayElementsEqualto1.cpp)
+add_executable(LeetCodeSolutions Contests/WeeklyContest341/2643RowWithMaximumOnes.cpp)
 
 target_link_libraries(LeetCodeSolutions benchmark::benchmark)
 
