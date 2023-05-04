@@ -35,7 +35,7 @@
 0	2616	1682770540879859243	CMakeFiles/LeetCodeSolutions.dir/Graph/CheckingExistenceofEdgeLengthLimitedPaths.cpp.o	c77e858d09cf217d
 1	1709	1682962072150571041	CMakeFiles/LeetCodeSolutions.dir/Contests/WeeklyContest343/main.cpp.o	9dd9b827d2b437e9
 2	4094	1679575181673310101	CMakeFiles/LeetCodeSolutions.dir/Dynamic/DecodeWays.cpp.o	1febed48075c22dc
-0	56	1683134987283222278	build.ninja	d33d1547cd2036e5
+0	56	1683230651136410638	build.ninja	d33d1547cd2036e5
 0	4499	1680278581554115725	CMakeFiles/LeetCodeSolutions.dir/Dynamic/ScrambleString.cpp.o	e554e0861276da9b
 0	1839	1682959443192507556	CMakeFiles/LeetCodeSolutions.dir/Contests/WeeklyContest343/DeterminetheWinnerofaBowlingGame.cpp.o	287ed0b25ce5f6ac
 1	2419	1682792182928750321	CMakeFiles/LeetCodeSolutions.dir/Contest103/makeEmpty2659.cpp.o	f247bb185c0d97d1
@@ -52,6 +52,7 @@
 0	1835	1681135738759174051	CMakeFiles/LeetCodeSolutions.dir/BreakThePieces.cpp.o	244a2020012f378f
 1703	1842	1669052329984705822	Subset/LeetCodeSolutions	7d727ad3ec1f524c
 4	4144	1679230962906100011	CMakeFiles/LeetCodeSolutions.dir/MergeKSortedLists.cpp.o	873ff80c967bd817
+0	3989	1683135086740719335	CMakeFiles/LeetCodeSolutions.dir/Contests/WeeklyContest341/2643RowWithMaximumOnes.cpp.o	48932570d52abde4
 0	486	1669141472899057687	CMakeFiles/LeetCodeSolutions.dir/DecodeWays/main.cpp.o	6d22dac9ec42f9a5
 1	2589	1679066854324401183	CMakeFiles/LeetCodeSolutions.dir/JumpGame.cpp.o	5cd87e1a5bb6a1bc
 0	1618	1680621361563357916	CMakeFiles/LeetCodeSolutions.dir/Dynamic/LargestRectangleinHistogram.cpp.o	4b3dbe2f6abc70db
@@ -83,12 +84,13 @@
 1	2809	1683123047585025212	CMakeFiles/LeetCodeSolutions.dir/2215FindtheDifferenceofTwoArrays.cpp.o	9acefa7605fa4438
 0	1733	1681398188340305247	CMakeFiles/LeetCodeSolutions.dir/ReachableNodesInSubdividedGraph.cpp.o	e0de5bac9b5ed8a
 0	1853	1681136017171478897	CMakeFiles/LeetCodeSolutions.dir/battleships-field-validator.cpp.o	8ee254ccd49aec7b
-4158	4299	1683134914410124692	LeetCodeSolutions	803c59e53e9df79c
+3693	3837	1683230166525619367	LeetCodeSolutions	d2b52193fef83bd8
 2	4617	1678885449219081865	CMakeFiles/LeetCodeSolutions.dir/main.cpp.o	215a337de3b8d097
 1	1691	1679488878295025562	CMakeFiles/LeetCodeSolutions.dir/Fibonacci.cpp.o	38b0cd30e0172808
 1	1618	1683036939112000078	CMakeFiles/LeetCodeSolutions.dir/2653SlidingSubarrayBeauty.cpp.o	dce3713b9825ba25
 1	1638	1680434128670542838	CMakeFiles/LeetCodeSolutions.dir/SuccessfulPairsOfSpellsAndPotions.cpp.o	b6ebdecc5b4f4d0b
 3	4316	1683134828276826503	CMakeFiles/LeetCodeSolutions.dir/Contests/WeeklyContest341/2644FindtheMaximumDivisibilityScore.cpp.o	74fecbf410b7eddf
+2	3693	1683230166381617298	CMakeFiles/LeetCodeSolutions.dir/649Dota2Senate.cpp.o	83675effc26b7953
 0	1707	1679487047686387120	CMakeFiles/LeetCodeSolutions.dir/CountingBits.cpp.o	c5df35eb538084ca
 1	2637	1681128218496745780	CMakeFiles/LeetCodeSolutions.dir/ValidParentheses.cpp.o	957c58cd5c2312f
 2	4215	1679581537977431828	CMakeFiles/LeetCodeSolutions.dir/NumberOfOperationToMake.cpp.o	d2d523f66403f877
@@ -113,5 +115,3 @@
 0	1734	1678896331071843614	CMakeFiles/LeetCodeSolutions.dir/NextGreater/NextGreater2.cpp.o	8ca4643d2f20cf20
 1	1786	1682788135950889939	CMakeFiles/LeetCodeSolutions.dir/Contest103/2657FindthePrefixCommonArrayofTwoArrays.cpp.o	ba6be64a15149215
 1	2585	1680445692556110511	CMakeFiles/LeetCodeSolutions.dir/Math/ReverseIntegers.cpp.o	408551905837acd8
-0	3989	1683135086740719335	CMakeFiles/LeetCodeSolutions.dir/Contests/WeeklyContest341/2643RowWithMaximumOnes.cpp.o	48932570d52abde4
-3990	4132	1683135086884721502	LeetCodeSolutions	668d87c8ab292722

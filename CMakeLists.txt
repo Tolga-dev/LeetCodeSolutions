@@ -9,7 +9,7 @@ if(benchmark_FOUND)
     message("hello")
 ENDIF()
 
-add_executable(LeetCodeSolutions Contests/WeeklyContest341/2643RowWithMaximumOnes.cpp)
+add_executable(LeetCodeSolutions Strings/649Dota2Senate.cpp)
 
 target_link_libraries(LeetCodeSolutions benchmark::benchmark)
 
