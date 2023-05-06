@@ -9,7 +9,7 @@ if(benchmark_FOUND)
     message("hello")
 ENDIF()
 
-add_executable(LeetCodeSolutions windowslider/1456MaximumNumberofVowelsinaSubstringofGiven.cpp)
+add_executable(LeetCodeSolutions 1498NumberofSubsequencesThatSatisfytheGivenSumCondition.cpp)
 
 target_link_libraries(LeetCodeSolutions benchmark::benchmark)
 
