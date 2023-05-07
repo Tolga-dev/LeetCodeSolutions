@@ -9,7 +9,7 @@ if(benchmark_FOUND)
     message("hello")
 ENDIF()
 
-add_executable(LeetCodeSolutions 1498NumberofSubsequencesThatSatisfytheGivenSumCondition.cpp)
+add_executable(LeetCodeSolutions BinarySeacrh/1964FindtheLongestValidObstacleCourseatEachPosition.cpp)
 
 target_link_libraries(LeetCodeSolutions benchmark::benchmark)
 
