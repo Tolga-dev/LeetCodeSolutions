@@ -9,7 +9,7 @@ if(benchmark_FOUND)
     message("hello")
 ENDIF()
 
-add_executable(LeetCodeSolutions BinarySeacrh/1964FindtheLongestValidObstacleCourseatEachPosition.cpp)
+add_executable(LeetCodeSolutions BinarySeacrh/1964FindtheLongestValidObstacleCourseatEachPosition.cpp array/1572MatrixDiagonalSum.cpp)
 
 target_link_libraries(LeetCodeSolutions benchmark::benchmark)
 

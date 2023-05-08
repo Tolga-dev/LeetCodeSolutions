@@ -10,7 +10,6 @@ static const int __ = []() { std::ios::sync_with_stdio(false); std::cin.tie(null
 #pragma GCC optimize("Ofast","inline","-ffast-math")
 #pragma GCC target("avx,mmx,sse2,sse3,sse4")
 
-
 vector<int> longestObstacleCourseAtEachPosition(vector<int>& obstacles) {
     int n = obstacles.size();
     int len = 0;
