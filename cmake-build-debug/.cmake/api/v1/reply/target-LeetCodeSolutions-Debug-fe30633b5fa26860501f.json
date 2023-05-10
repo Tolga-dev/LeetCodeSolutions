@@ -123,8 +123,7 @@
 			},
 			"sourceIndexes" : 
 			[
-				0,
-				1
+				0
 			]
 		}
 	],
@@ -172,8 +171,7 @@
 			"name" : "Source Files",
 			"sourceIndexes" : 
 			[
-				0,
-				1
+				0
 			]
 		}
 	],
@@ -182,13 +180,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "BinarySeacrh/1964FindtheLongestValidObstacleCourseatEachPosition.cpp",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 1,
-			"compileGroupIndex" : 0,
-			"path" : "array/1572MatrixDiagonalSum.cpp",
+			"path" : "59SpiralMatrixII.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],
