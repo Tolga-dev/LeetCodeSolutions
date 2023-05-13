@@ -38,7 +38,7 @@
 0	2616	1682770540879859243	CMakeFiles/LeetCodeSolutions.dir/Graph/CheckingExistenceofEdgeLengthLimitedPaths.cpp.o	c77e858d09cf217d
 1	1709	1682962072150571041	CMakeFiles/LeetCodeSolutions.dir/Contests/WeeklyContest343/main.cpp.o	9dd9b827d2b437e9
 2	4094	1679575181673310101	CMakeFiles/LeetCodeSolutions.dir/Dynamic/DecodeWays.cpp.o	1febed48075c22dc
-1	32	1683819279689353364	build.ninja	d33d1547cd2036e5
+1	32	1683981869915538810	build.ninja	d33d1547cd2036e5
 0	1839	1682959443192507556	CMakeFiles/LeetCodeSolutions.dir/Contests/WeeklyContest343/DeterminetheWinnerofaBowlingGame.cpp.o	287ed0b25ce5f6ac
 0	4499	1680278581554115725	CMakeFiles/LeetCodeSolutions.dir/Dynamic/ScrambleString.cpp.o	e554e0861276da9b
 1	2419	1682792182928750321	CMakeFiles/LeetCodeSolutions.dir/Contest103/makeEmpty2659.cpp.o	f247bb185c0d97d1
@@ -121,3 +121,5 @@
 0	1734	1678896331071843614	CMakeFiles/LeetCodeSolutions.dir/NextGreater/NextGreater2.cpp.o	8ca4643d2f20cf20
 1	1786	1682788135950889939	CMakeFiles/LeetCodeSolutions.dir/Contest103/2657FindthePrefixCommonArrayofTwoArrays.cpp.o	ba6be64a15149215
 1	2585	1680445692556110511	CMakeFiles/LeetCodeSolutions.dir/Math/ReverseIntegers.cpp.o	408551905837acd8
+0	3967	1683981956143467881	CMakeFiles/LeetCodeSolutions.dir/2466CountWaysToBuildGoodStrings.cpp.o	44bdfc2434873572
+3969	4131	1683981956303417014	LeetCodeSolutions	1337f866b649edcd

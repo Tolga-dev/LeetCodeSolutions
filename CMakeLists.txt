@@ -9,7 +9,7 @@ if(benchmark_FOUND)
     message("hello")
 ENDIF()
 
-add_executable(LeetCodeSolutions Dynamic/1035UncrossedLines.cpp)
+add_executable(LeetCodeSolutions 2466CountWaysToBuildGoodStrings.cpp)
 
 target_link_libraries(LeetCodeSolutions benchmark::benchmark)
 
