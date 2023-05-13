@@ -9,7 +9,7 @@ if(benchmark_FOUND)
     message("hello")
 ENDIF()
 
-add_executable(LeetCodeSolutions 2466CountWaysToBuildGoodStrings.cpp)
+add_executable(LeetCodeSolutions Contests/BiWeekly104/2678NumberofSeniorCitizens.cpp)
 
 target_link_libraries(LeetCodeSolutions benchmark::benchmark)
 

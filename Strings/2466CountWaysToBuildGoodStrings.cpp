@@ -32,7 +32,5 @@ int main()
     cout << countGoodStrings(2,3,1,2) << endl;
 
 
-
-
     return 0;
 }
