@@ -38,7 +38,7 @@
 0	2616	1682770540879859243	CMakeFiles/LeetCodeSolutions.dir/Graph/CheckingExistenceofEdgeLengthLimitedPaths.cpp.o	c77e858d09cf217d
 1	1709	1682962072150571041	CMakeFiles/LeetCodeSolutions.dir/Contests/WeeklyContest343/main.cpp.o	9dd9b827d2b437e9
 2	4094	1679575181673310101	CMakeFiles/LeetCodeSolutions.dir/Dynamic/DecodeWays.cpp.o	1febed48075c22dc
-0	68	1684007908726686436	build.ninja	d33d1547cd2036e5
+0	68	1684077131967608159	build.ninja	d33d1547cd2036e5
 0	4499	1680278581554115725	CMakeFiles/LeetCodeSolutions.dir/Dynamic/ScrambleString.cpp.o	e554e0861276da9b
 0	1839	1682959443192507556	CMakeFiles/LeetCodeSolutions.dir/Contests/WeeklyContest343/DeterminetheWinnerofaBowlingGame.cpp.o	287ed0b25ce5f6ac
 0	3967	1683981956143467881	CMakeFiles/LeetCodeSolutions.dir/2466CountWaysToBuildGoodStrings.cpp.o	44bdfc2434873572
@@ -89,9 +89,10 @@
 1	2458	1681226527625861917	CMakeFiles/LeetCodeSolutions.dir/BitwiseXORofAllPairings.cpp.o	82f5d72be4b85fdd
 1	1946	1678893372536610315	CMakeFiles/LeetCodeSolutions.dir/NextGreater2.cpp.o	78b2773d15142e
 1	2809	1683123047585025212	CMakeFiles/LeetCodeSolutions.dir/2215FindtheDifferenceofTwoArrays.cpp.o	9acefa7605fa4438
+1	4242	1684077045142429830	CMakeFiles/LeetCodeSolutions.dir/300LongestIncreasingSubsequence.cpp.o	fe3eca3cf4b435f1
 0	1733	1681398188340305247	CMakeFiles/LeetCodeSolutions.dir/ReachableNodesInSubdividedGraph.cpp.o	e0de5bac9b5ed8a
 0	1853	1681136017171478897	CMakeFiles/LeetCodeSolutions.dir/battleships-field-validator.cpp.o	8ee254ccd49aec7b
-3984	4128	1684003702945067960	LeetCodeSolutions	f20b9870e3d68d0
+4242	4384	1684077045286431777	LeetCodeSolutions	39e23765dd778615
 2	4617	1678885449219081865	CMakeFiles/LeetCodeSolutions.dir/main.cpp.o	215a337de3b8d097
 1	1691	1679488878295025562	CMakeFiles/LeetCodeSolutions.dir/Fibonacci.cpp.o	38b0cd30e0172808
 1	1618	1683036939112000078	CMakeFiles/LeetCodeSolutions.dir/2653SlidingSubarrayBeauty.cpp.o	dce3713b9825ba25
@@ -105,7 +106,9 @@
 0	1725	1681215544726091754	CMakeFiles/LeetCodeSolutions.dir/RemovingStarsFromaString.cpp.o	329390a07f1918b0
 1	3706	1681302672091952641	CMakeFiles/LeetCodeSolutions.dir/BitwiseANDofNumbersRange.cpp.o	da2e1d28ad6db426
 0	487	1668930393238673522	MergeProblem/CMakeFiles/LeetCodeSolutions.dir/main.cpp.o	fafb925f1cfa94ff
+2	4024	1684063210853183827	CMakeFiles/LeetCodeSolutions.dir/1799MaximizeScoreAfterNOperations.cpp.o	27ad6a4b2bb0f4b2
 0	1641	1679405194313453614	CMakeFiles/LeetCodeSolutions.dir/UniquepATH/UniquePath2.cpp.o	102696d06bfa43fe
+1	3963	1684065935936644878	CMakeFiles/LeetCodeSolutions.dir/396RotateFunction.cpp.o	b36f614fc7ce2639
 1	2912	1681653132065743220	CMakeFiles/LeetCodeSolutions.dir/NumberofWaystoaTargetStringGivenaDictionary.cpp.o	8baed5ebde4db8a1
 1	1829	1680621540010333393	CMakeFiles/LeetCodeSolutions.dir/Dynamic/MaximalRectangle.cpp.o	a55734bd26592a0f
 2	4197	1681476661112451235	CMakeFiles/LeetCodeSolutions.dir/CourseSchedule.cpp.o	acb4e33f5661e18
