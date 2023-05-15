@@ -9,7 +9,7 @@ if(benchmark_FOUND)
     message("hello")
 ENDIF()
 
-add_executable(LeetCodeSolutions Dfs/300LongestIncreasingSubsequence.cpp)
+add_executable(LeetCodeSolutions 1721SwappingNodesinaLinkedList.cpp)
 
 target_link_libraries(LeetCodeSolutions benchmark::benchmark)
 
