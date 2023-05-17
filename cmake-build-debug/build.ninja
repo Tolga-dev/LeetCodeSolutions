@@ -49,12 +49,12 @@ cmake_ninja_workdir = /home/xamblot/CLionProjects/LeetCodeSolutions/cmake-build-
 
 build cmake_object_order_depends_target_LeetCodeSolutions: phony || CMakeFiles/LeetCodeSolutions.dir
 
-build CMakeFiles/LeetCodeSolutions.dir/24SwapNodesinPairs.cpp.o: CXX_COMPILER__LeetCodeSolutions_Debug /home/xamblot/CLionProjects/LeetCodeSolutions/24SwapNodesinPairs.cpp || cmake_object_order_depends_target_LeetCodeSolutions
+build CMakeFiles/LeetCodeSolutions.dir/MonotonicStack/907SumofSubarrayMinimums.cpp.o: CXX_COMPILER__LeetCodeSolutions_Debug /home/xamblot/CLionProjects/LeetCodeSolutions/MonotonicStack/907SumofSubarrayMinimums.cpp || cmake_object_order_depends_target_LeetCodeSolutions
   DEFINES = -DBENCHMARK_STATIC_DEFINE
-  DEP_FILE = CMakeFiles/LeetCodeSolutions.dir/24SwapNodesinPairs.cpp.o.d
+  DEP_FILE = CMakeFiles/LeetCodeSolutions.dir/MonotonicStack/907SumofSubarrayMinimums.cpp.o.d
   FLAGS = -g -std=gnu++2a
   OBJECT_DIR = CMakeFiles/LeetCodeSolutions.dir
-  OBJECT_FILE_DIR = CMakeFiles/LeetCodeSolutions.dir
+  OBJECT_FILE_DIR = CMakeFiles/LeetCodeSolutions.dir/MonotonicStack
 
 
 # =============================================================================
@@ -64,7 +64,7 @@ build CMakeFiles/LeetCodeSolutions.dir/24SwapNodesinPairs.cpp.o: CXX_COMPILER__L
 #############################################
 # Link the executable LeetCodeSolutions
 
-build LeetCodeSolutions: CXX_EXECUTABLE_LINKER__LeetCodeSolutions_Debug CMakeFiles/LeetCodeSolutions.dir/24SwapNodesinPairs.cpp.o | /usr/local/lib/libbenchmark.a
+build LeetCodeSolutions: CXX_EXECUTABLE_LINKER__LeetCodeSolutions_Debug CMakeFiles/LeetCodeSolutions.dir/MonotonicStack/907SumofSubarrayMinimums.cpp.o | /usr/local/lib/libbenchmark.a
   FLAGS = -g
   LINK_LIBRARIES = /usr/local/lib/libbenchmark.a  -lpthread  -lrt
   OBJECT_DIR = CMakeFiles/LeetCodeSolutions.dir
