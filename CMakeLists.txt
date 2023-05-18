@@ -9,7 +9,7 @@ if(benchmark_FOUND)
     message("hello")
 ENDIF()
 
-add_executable(LeetCodeSolutions MonotonicStack/907SumofSubarrayMinimums.cpp)
+add_executable(LeetCodeSolutions 1557MinimumNumberofVerticestoReachAllNodes.cpp)
 
 target_link_libraries(LeetCodeSolutions benchmark::benchmark)
 
