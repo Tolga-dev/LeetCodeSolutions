@@ -1,14 +1,5 @@
 /home/xamblot/.local/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/xamblot/Downloads/CLion/clion-2022.1.3/bin/ninja/linux/ninja -G Ninja -S /home/xamblot/CLionProjects/LeetCodeSolutions -B /home/xamblot/CLionProjects/LeetCodeSolutions/cmake-build-debug
 hello
 -- Configuring done
-CMake Error at CMakeLists.txt:12 (add_executable):
-  Cannot find source file:
-
-    399EvaluateDivision.cpp
-
-
-CMake Error at CMakeLists.txt:12 (add_executable):
-  No SOURCES given to target: LeetCodeSolutions
-
-
-CMake Generate step failed.  Build files cannot be regenerated correctly.
+-- Generating done
+-- Build files have been written to: /home/xamblot/CLionProjects/LeetCodeSolutions/cmake-build-debug
