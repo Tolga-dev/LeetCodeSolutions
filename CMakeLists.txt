@@ -9,7 +9,7 @@ if(benchmark_FOUND)
     message("hello")
 ENDIF()
 
-add_executable(LeetCodeSolutions Dynamic/72EditDistance.cpp)
+add_executable(LeetCodeSolutions 15DistinctSubsequences.cpp)
 
 target_link_libraries(LeetCodeSolutions benchmark::benchmark)
 
