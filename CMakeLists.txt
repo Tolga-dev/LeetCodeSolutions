@@ -9,7 +9,7 @@ if(benchmark_FOUND)
     message("hello")
 ENDIF()
 
-add_executable(LeetCodeSolutions 15DistinctSubsequences.cpp)
+add_executable(LeetCodeSolutions Dynamic/1027LongestArithmeticSubsequence.cpp)
 
 target_link_libraries(LeetCodeSolutions benchmark::benchmark)
 
