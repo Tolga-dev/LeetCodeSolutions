@@ -9,7 +9,7 @@ if(benchmark_FOUND)
     message("hello")
 ENDIF()
 
-add_executable(LeetCodeSolutions Dynamic/188BestTimetoBuyandSellStockIV.cpp)
+add_executable(LeetCodeSolutions 337HouseRobberIII.cpp)
 
 target_link_libraries(LeetCodeSolutions benchmark::benchmark)
 
