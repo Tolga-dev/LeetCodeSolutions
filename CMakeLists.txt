@@ -9,7 +9,7 @@ if(benchmark_FOUND)
     message("hello")
 ENDIF()
 
-add_executable(LeetCodeSolutions 337HouseRobberIII.cpp)
+add_executable(LeetCodeSolutions 124BinaryTreeMaximumPathSum.cpp)
 
 target_link_libraries(LeetCodeSolutions benchmark::benchmark)
 
