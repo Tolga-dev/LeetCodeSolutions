@@ -9,7 +9,7 @@ if(benchmark_FOUND)
     message("hello")
 ENDIF()
 
-add_executable(LeetCodeSolutions 124BinaryTreeMaximumPathSum.cpp)
+add_executable(LeetCodeSolutions 1547MinimumCosttoCutaStick.cpp)
 
 target_link_libraries(LeetCodeSolutions benchmark::benchmark)
 
