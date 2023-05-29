@@ -30,6 +30,7 @@
 1	3973	1685080951386745808	CMakeFiles/LeetCodeSolutions.dir/877StoneGame.cpp.o	cd464a3ceea7e399
 2	4121	1681473371551578321	CMakeFiles/LeetCodeSolutions.dir/LongestPalindromicSubsequence.cpp.o	78c860969ea5763b
 1	150	1679211937924468677	CMakeFiles/LeetCodeSolutions.dir/Reversing.c.o	17eff830a7dc7f12
+2	3894	1685305282739844216	CMakeFiles/LeetCodeSolutions.dir/1547MinimumCosttoCutaStick.cpp.o	e980b2969c834d69
 1	1628	1684917180548859465	CMakeFiles/LeetCodeSolutions.dir/2542MaximumSubsequenceScore.cpp.o	19cb643c416e6f6d
 2	3816	1685203518683392356	CMakeFiles/LeetCodeSolutions.dir/1406StoneGameIII.cpp.o	7ae8a0d3e3bcb812
 1	1646	1679222829761683385	CMakeFiles/LeetCodeSolutions.dir/maxSubArraySUm.cpp.o	ff84dd0b8393bde7
@@ -54,7 +55,7 @@
 1	1709	1682962072150571041	CMakeFiles/LeetCodeSolutions.dir/Contests/WeeklyContest343/main.cpp.o	9dd9b827d2b437e9
 0	1528	1684742740098511148	CMakeFiles/LeetCodeSolutions.dir/Dynamic/221MaximalSquare.cpp.o	a35e6f58afa761de
 2	4094	1679575181673310101	CMakeFiles/LeetCodeSolutions.dir/Dynamic/DecodeWays.cpp.o	1febed48075c22dc
-0	20	1685305084129461232	build.ninja	d33d1547cd2036e5
+0	20	1685390211533846196	build.ninja	d33d1547cd2036e5
 0	1839	1682959443192507556	CMakeFiles/LeetCodeSolutions.dir/Contests/WeeklyContest343/DeterminetheWinnerofaBowlingGame.cpp.o	287ed0b25ce5f6ac
 0	4499	1680278581554115725	CMakeFiles/LeetCodeSolutions.dir/Dynamic/ScrambleString.cpp.o	e554e0861276da9b
 1	3485	1685085889916546747	CMakeFiles/LeetCodeSolutions.dir/96UniqueBinarySearchTrees.cpp.o	3b7b1f7efb4a80ed
@@ -117,7 +118,7 @@
 1	1946	1678893372536610315	CMakeFiles/LeetCodeSolutions.dir/NextGreater2.cpp.o	78b2773d15142e
 1	4242	1684077045142429830	CMakeFiles/LeetCodeSolutions.dir/300LongestIncreasingSubsequence.cpp.o	fe3eca3cf4b435f1
 0	1733	1681398188340305247	CMakeFiles/LeetCodeSolutions.dir/ReachableNodesInSubdividedGraph.cpp.o	e0de5bac9b5ed8a
-3743	3883	1685205813787251058	LeetCodeSolutions	e17b1dd1c103585f
+3894	4026	1685305282871845833	LeetCodeSolutions	d5a773d50d89bbc2
 0	1853	1681136017171478897	CMakeFiles/LeetCodeSolutions.dir/battleships-field-validator.cpp.o	8ee254ccd49aec7b
 1	1765	1685014695282633109	CMakeFiles/LeetCodeSolutions.dir/188BestTimetoBuyandSellStockIV.cpp.o	6d4a125b9398aba2
 2	4183	1684432640162632634	CMakeFiles/LeetCodeSolutions.dir/1557MinimumNumberofVerticestoReachAllNodes.cpp.o	f4844d8ada165784
@@ -170,7 +171,3 @@
 2	3658	1685104516586368923	CMakeFiles/LeetCodeSolutions.dir/337HouseRobberIII.cpp.o	c6505d1d02f7c91
 1	1786	1682788135950889939	CMakeFiles/LeetCodeSolutions.dir/Contest103/2657FindthePrefixCommonArrayofTwoArrays.cpp.o	ba6be64a15149215
 1	2585	1680445692556110511	CMakeFiles/LeetCodeSolutions.dir/Math/ReverseIntegers.cpp.o	408551905837acd8
-0	3740	1685305271159702541	CMakeFiles/LeetCodeSolutions.dir/1547MinimumCosttoCutaStick.cpp.o	e980b2969c834d69
-3741	3897	1685305271315704448	LeetCodeSolutions	d5a773d50d89bbc2
-2	3894	1685305282739844216	CMakeFiles/LeetCodeSolutions.dir/1547MinimumCosttoCutaStick.cpp.o	e980b2969c834d69
-3894	4026	1685305282871845833	LeetCodeSolutions	d5a773d50d89bbc2
