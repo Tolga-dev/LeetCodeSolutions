@@ -9,7 +9,7 @@ if(benchmark_FOUND)
     message("hello")
 ENDIF()
 
-add_executable(LeetCodeSolutions  1603DesignParkingSystem.cpp)
+add_executable(LeetCodeSolutions 39CombinationSum.cpp)
 
 target_link_libraries(LeetCodeSolutions benchmark::benchmark)
 
