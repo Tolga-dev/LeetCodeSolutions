@@ -56,7 +56,7 @@
 1	1709	1682962072150571041	CMakeFiles/LeetCodeSolutions.dir/Contests/WeeklyContest343/main.cpp.o	9dd9b827d2b437e9
 0	1528	1684742740098511148	CMakeFiles/LeetCodeSolutions.dir/Dynamic/221MaximalSquare.cpp.o	a35e6f58afa761de
 2	4094	1679575181673310101	CMakeFiles/LeetCodeSolutions.dir/Dynamic/DecodeWays.cpp.o	1febed48075c22dc
-1	21	1685438891696947462	build.ninja	d33d1547cd2036e5
+1	21	1685537498585105964	build.ninja	d33d1547cd2036e5
 1	3485	1685085889916546747	CMakeFiles/LeetCodeSolutions.dir/96UniqueBinarySearchTrees.cpp.o	3b7b1f7efb4a80ed
 0	4499	1680278581554115725	CMakeFiles/LeetCodeSolutions.dir/Dynamic/ScrambleString.cpp.o	e554e0861276da9b
 0	1839	1682959443192507556	CMakeFiles/LeetCodeSolutions.dir/Contests/WeeklyContest343/DeterminetheWinnerofaBowlingGame.cpp.o	287ed0b25ce5f6ac
@@ -99,6 +99,7 @@
 2	3924	1680787862566007159	CMakeFiles/LeetCodeSolutions.dir/Evaluatemathematicalexpression.cpp.o	ca8494f50494b7fd
 1	3757	1685433820243929653	CMakeFiles/LeetCodeSolutions.dir/279PerfectSquares.cpp.o	d0fe5615a8b0450a
 2	3942	1683386474622503591	CMakeFiles/LeetCodeSolutions.dir/1498NumberofSubsequencesThatSatisfytheGivenSumCondition.cpp.o	997269d08e57babf
+2	3685	1685439069731471160	CMakeFiles/LeetCodeSolutions.dir/39CombinationSum.cpp.o	8505422f3fa5dbb5
 1	1782	1684337570545464015	CMakeFiles/LeetCodeSolutions.dir/907SumofSubarrayMinimums.cpp.o	1ab64aa28e760ca2
 1	1905	1681133577092779935	CMakeFiles/LeetCodeSolutions.dir/Stack/ValidParentheses.cpp.o	d36d97335bac5e74
 1	1559	1684329598425450565	CMakeFiles/LeetCodeSolutions.dir/2130MaximumTwinSumofaLinkedList.cpp.o	4fe237748c6fcd7e
@@ -123,7 +124,7 @@
 0	1733	1681398188340305247	CMakeFiles/LeetCodeSolutions.dir/ReachableNodesInSubdividedGraph.cpp.o	e0de5bac9b5ed8a
 1	1765	1685014695282633109	CMakeFiles/LeetCodeSolutions.dir/188BestTimetoBuyandSellStockIV.cpp.o	6d4a125b9398aba2
 0	1853	1681136017171478897	CMakeFiles/LeetCodeSolutions.dir/battleships-field-validator.cpp.o	8ee254ccd49aec7b
-4397	4557	1685438473991082353	LeetCodeSolutions	4a08e1c023f26a44
+3685	3818	1685439069863473315	LeetCodeSolutions	7cfaedb72a55b5fd
 2	4183	1684432640162632634	CMakeFiles/LeetCodeSolutions.dir/1557MinimumNumberofVerticestoReachAllNodes.cpp.o	f4844d8ada165784
 2	4617	1678885449219081865	CMakeFiles/LeetCodeSolutions.dir/main.cpp.o	215a337de3b8d097
 1	1691	1679488878295025562	CMakeFiles/LeetCodeSolutions.dir/Fibonacci.cpp.o	38b0cd30e0172808
@@ -176,7 +177,3 @@
 2	3658	1685104516586368923	CMakeFiles/LeetCodeSolutions.dir/337HouseRobberIII.cpp.o	c6505d1d02f7c91
 1	1786	1682788135950889939	CMakeFiles/LeetCodeSolutions.dir/Contest103/2657FindthePrefixCommonArrayofTwoArrays.cpp.o	ba6be64a15149215
 1	2585	1680445692556110511	CMakeFiles/LeetCodeSolutions.dir/Math/ReverseIntegers.cpp.o	408551905837acd8
-0	3838	1685438967102009516	CMakeFiles/LeetCodeSolutions.dir/39CombinationSum.cpp.o	8505422f3fa5dbb5
-3839	3977	1685438967242011488	LeetCodeSolutions	7cfaedb72a55b5fd
-2	3685	1685439069731471160	CMakeFiles/LeetCodeSolutions.dir/39CombinationSum.cpp.o	8505422f3fa5dbb5
-3685	3818	1685439069863473315	LeetCodeSolutions	7cfaedb72a55b5fd

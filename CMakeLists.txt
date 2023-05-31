@@ -9,7 +9,7 @@ if(benchmark_FOUND)
     message("hello")
 ENDIF()
 
-add_executable(LeetCodeSolutions 39CombinationSum.cpp)
+add_executable(LeetCodeSolutions 1396DesignUndergroundSystem.cpp)
 
 target_link_libraries(LeetCodeSolutions benchmark::benchmark)
 

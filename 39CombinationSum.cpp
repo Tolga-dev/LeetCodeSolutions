@@ -58,7 +58,6 @@ int main() {
 
     vi can = {2,3,6,7};
 
-
     for (auto sm : combinationSum(can,7)) {
         for (auto m: sm) {
             cout << m<< " ";
