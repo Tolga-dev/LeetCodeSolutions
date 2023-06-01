@@ -9,7 +9,7 @@ if(benchmark_FOUND)
     message("hello")
 ENDIF()
 
-add_executable(LeetCodeSolutions 1396DesignUndergroundSystem.cpp)
+add_executable(LeetCodeSolutions 1091ShortestPathinBinaryMatrix.cpp)
 
 target_link_libraries(LeetCodeSolutions benchmark::benchmark)
 
