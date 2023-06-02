@@ -49,9 +49,9 @@ cmake_ninja_workdir = /home/xamblot/CLionProjects/LeetCodeSolutions/cmake-build-
 
 build cmake_object_order_depends_target_LeetCodeSolutions: phony || CMakeFiles/LeetCodeSolutions.dir
 
-build CMakeFiles/LeetCodeSolutions.dir/1091ShortestPathinBinaryMatrix.cpp.o: CXX_COMPILER__LeetCodeSolutions_Debug /home/xamblot/CLionProjects/LeetCodeSolutions/1091ShortestPathinBinaryMatrix.cpp || cmake_object_order_depends_target_LeetCodeSolutions
+build CMakeFiles/LeetCodeSolutions.dir/2101DetonatetheMaximumBombs.cpp.o: CXX_COMPILER__LeetCodeSolutions_Debug /home/xamblot/CLionProjects/LeetCodeSolutions/2101DetonatetheMaximumBombs.cpp || cmake_object_order_depends_target_LeetCodeSolutions
   DEFINES = -DBENCHMARK_STATIC_DEFINE
-  DEP_FILE = CMakeFiles/LeetCodeSolutions.dir/1091ShortestPathinBinaryMatrix.cpp.o.d
+  DEP_FILE = CMakeFiles/LeetCodeSolutions.dir/2101DetonatetheMaximumBombs.cpp.o.d
   FLAGS = -g -std=gnu++2a
   OBJECT_DIR = CMakeFiles/LeetCodeSolutions.dir
   OBJECT_FILE_DIR = CMakeFiles/LeetCodeSolutions.dir
@@ -64,7 +64,7 @@ build CMakeFiles/LeetCodeSolutions.dir/1091ShortestPathinBinaryMatrix.cpp.o: CXX
 #############################################
 # Link the executable LeetCodeSolutions
 
-build LeetCodeSolutions: CXX_EXECUTABLE_LINKER__LeetCodeSolutions_Debug CMakeFiles/LeetCodeSolutions.dir/1091ShortestPathinBinaryMatrix.cpp.o | /usr/local/lib/libbenchmark.a
+build LeetCodeSolutions: CXX_EXECUTABLE_LINKER__LeetCodeSolutions_Debug CMakeFiles/LeetCodeSolutions.dir/2101DetonatetheMaximumBombs.cpp.o | /usr/local/lib/libbenchmark.a
   FLAGS = -g
   LINK_LIBRARIES = /usr/local/lib/libbenchmark.a  -lpthread  -lrt
   OBJECT_DIR = CMakeFiles/LeetCodeSolutions.dir
