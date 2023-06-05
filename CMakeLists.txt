@@ -9,7 +9,7 @@ if(benchmark_FOUND)
     message("hello")
 ENDIF()
 
-add_executable(LeetCodeSolutions 547NumberofProvinces.cpp)
+add_executable(LeetCodeSolutions 1232CheckIfItIsaStraightLine.cpp)
 
 target_link_libraries(LeetCodeSolutions benchmark::benchmark)
 
