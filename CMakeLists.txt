@@ -9,7 +9,7 @@ if(benchmark_FOUND)
     message("hello")
 ENDIF()
 
-add_executable(LeetCodeSolutions 1232CheckIfItIsaStraightLine.cpp)
+add_executable(LeetCodeSolutions 1502CanMakeArithmeticProgressionFromSequence.cpp)
 
 target_link_libraries(LeetCodeSolutions benchmark::benchmark)
 
