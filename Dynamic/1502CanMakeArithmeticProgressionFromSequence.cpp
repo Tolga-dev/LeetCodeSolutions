@@ -52,6 +52,23 @@ bool canMakeArithmeticProgression1(vector<int>& arr) {
 }
 
 
+
+bool canMakeArithmeticProgression(vector<int>& arr) {
+
+    sort(arr.begin(),arr.end());
+    int po = arr[1] - arr[0];
+
+    for (int i = 2; i < static_cast<int>(arr.size())-1; ++i) {
+        if(arr[i] + po != arr[i+1])
+        {
+            return false;
+        }
+    }
+
+    return true;
+}
+
+
 int main() {
 
     vi arr = {3,5,1};

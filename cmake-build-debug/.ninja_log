@@ -6,6 +6,7 @@
 1	2850	1680427919330845908	CMakeFiles/LeetCodeSolutions.dir/NumberWaysCuttingPizza.cpp.o	941aba0eb7f22a4
 1	2430	1684745624682530087	CMakeFiles/LeetCodeSolutions.dir/72EditDistance.cpp.o	b23cbaaa94fe498a
 1	4504	1678872684825691548	CMakeFiles/LeetCodeSolutions.dir/Subset/main.cpp.o	60a05bcb5b58145f
+2	3808	1686125011124343031	CMakeFiles/LeetCodeSolutions.dir/40CombinationSumII.cpp.o	c66896574ce466c3
 2	3742	1685011369367673214	CMakeFiles/LeetCodeSolutions.dir/123BestTimetoBuyandSellStockIII.cpp.o	caaa8a40a14d0154
 1	970	1682510895424384161	CMakeFiles/LeetCodeSolutions.dir/sum_digit.cpp.o	eaf39e95dca58f9d
 1	2280	1682599703816935294	CMakeFiles/LeetCodeSolutions.dir/GenerateParentheses.cpp.o	542546042d03ce23
@@ -57,7 +58,7 @@
 1	1709	1682962072150571041	CMakeFiles/LeetCodeSolutions.dir/Contests/WeeklyContest343/main.cpp.o	9dd9b827d2b437e9
 0	1528	1684742740098511148	CMakeFiles/LeetCodeSolutions.dir/Dynamic/221MaximalSquare.cpp.o	a35e6f58afa761de
 2	4094	1679575181673310101	CMakeFiles/LeetCodeSolutions.dir/Dynamic/DecodeWays.cpp.o	1febed48075c22dc
-1	21	1686083960094156221	build.ninja	d33d1547cd2036e5
+1	21	1686133179959044403	build.ninja	d33d1547cd2036e5
 1	3485	1685085889916546747	CMakeFiles/LeetCodeSolutions.dir/96UniqueBinarySearchTrees.cpp.o	3b7b1f7efb4a80ed
 0	4499	1680278581554115725	CMakeFiles/LeetCodeSolutions.dir/Dynamic/ScrambleString.cpp.o	e554e0861276da9b
 0	1839	1682959443192507556	CMakeFiles/LeetCodeSolutions.dir/Contests/WeeklyContest343/DeterminetheWinnerofaBowlingGame.cpp.o	287ed0b25ce5f6ac
@@ -87,6 +88,7 @@
 0	486	1669141472899057687	CMakeFiles/LeetCodeSolutions.dir/DecodeWays/main.cpp.o	6d22dac9ec42f9a5
 1	2589	1679066854324401183	CMakeFiles/LeetCodeSolutions.dir/JumpGame.cpp.o	5cd87e1a5bb6a1bc
 0	1618	1680621361563357916	CMakeFiles/LeetCodeSolutions.dir/Dynamic/LargestRectangleinHistogram.cpp.o	4b3dbe2f6abc70db
+2	3630	1686130018440730982	CMakeFiles/LeetCodeSolutions.dir/377CombinationSumIV.cpp.o	ea0086d4d4474a56
 2	4194	1682697136149166605	CMakeFiles/LeetCodeSolutions.dir/SimilarStringGroups.cpp.o	50cbf2e0503ec10f
 1	4502	1680539606955042213	CMakeFiles/LeetCodeSolutions.dir/CodeWats/InsaneColouredTriangles.cpp.o	cb2886ee01986ae9
 1	2611	1680442875671031862	CMakeFiles/LeetCodeSolutions.dir/KthLargestElementInArray.cpp.o	3f03931ac3372518
@@ -120,13 +122,14 @@
 0	1638	1681489598031403035	CMakeFiles/LeetCodeSolutions.dir/AreasofVoronoicells.cpp.o	949f8b9e1a9a3f73
 1	2458	1681226527625861917	CMakeFiles/LeetCodeSolutions.dir/BitwiseXORofAllPairings.cpp.o	82f5d72be4b85fdd
 1	1696	1684168659545230533	CMakeFiles/LeetCodeSolutions.dir/1721SwappingNodesinaLinkedList.cpp.o	3f89f8f2cbe8da17
+2	3627	1686122114575954994	CMakeFiles/LeetCodeSolutions.dir/1318MinimumFlipstoMakeaORbEqualtoc.cpp.o	10a329f8f1415fd3
 1	1946	1678893372536610315	CMakeFiles/LeetCodeSolutions.dir/NextGreater2.cpp.o	78b2773d15142e
 1	2809	1683123047585025212	CMakeFiles/LeetCodeSolutions.dir/2215FindtheDifferenceofTwoArrays.cpp.o	9acefa7605fa4438
 1	4242	1684077045142429830	CMakeFiles/LeetCodeSolutions.dir/300LongestIncreasingSubsequence.cpp.o	fe3eca3cf4b435f1
 0	1733	1681398188340305247	CMakeFiles/LeetCodeSolutions.dir/ReachableNodesInSubdividedGraph.cpp.o	e0de5bac9b5ed8a
 1	1765	1685014695282633109	CMakeFiles/LeetCodeSolutions.dir/188BestTimetoBuyandSellStockIV.cpp.o	6d4a125b9398aba2
 0	1853	1681136017171478897	CMakeFiles/LeetCodeSolutions.dir/battleships-field-validator.cpp.o	8ee254ccd49aec7b
-1769	1865	1685910030973102052	LeetCodeSolutions	e87bf1371908fb6
+3630	3763	1686130018572732883	LeetCodeSolutions	73e5be98cb0b1c4c
 2	4183	1684432640162632634	CMakeFiles/LeetCodeSolutions.dir/1557MinimumNumberofVerticestoReachAllNodes.cpp.o	f4844d8ada165784
 2	4617	1678885449219081865	CMakeFiles/LeetCodeSolutions.dir/main.cpp.o	215a337de3b8d097
 1	1691	1679488878295025562	CMakeFiles/LeetCodeSolutions.dir/Fibonacci.cpp.o	38b0cd30e0172808
@@ -135,6 +138,7 @@
 3	4316	1683134828276826503	CMakeFiles/LeetCodeSolutions.dir/Contests/WeeklyContest341/2644FindtheMaximumDivisibilityScore.cpp.o	74fecbf410b7eddf
 2	3693	1683230166381617298	CMakeFiles/LeetCodeSolutions.dir/649Dota2Senate.cpp.o	83675effc26b7953
 0	3838	1685824795755243472	CMakeFiles/LeetCodeSolutions.dir/1376TimeNeededtoInformAllEmployees.cpp.o	8ecb8d93c8af2224
+2	3967	1686128394065061531	CMakeFiles/LeetCodeSolutions.dir/216CombinationSumIII.cpp.o	b50ccb01f742e866
 0	3912	1685010094995302721	CMakeFiles/LeetCodeSolutions.dir/122BestTimetoBuyandSellStockII.cpp.o	b4a751341a4568cf
 0	1707	1679487047686387120	CMakeFiles/LeetCodeSolutions.dir/CountingBits.cpp.o	c5df35eb538084ca
 2	3963	1685002591730349565	CMakeFiles/LeetCodeSolutions.dir/714BestTimetoBuyandSellStockwithTransactionFee.cpp.o	2fad522d41417389
