@@ -9,7 +9,7 @@ if(benchmark_FOUND)
     message("hello")
 ENDIF()
 
-add_executable(LeetCodeSolutions 1351CountNegativeNumbersinaSortedMatrix.cpp)
+add_executable(LeetCodeSolutions 744FindSmallestLetterGreaterThanTarget.cpp)
 
 target_link_libraries(LeetCodeSolutions benchmark::benchmark)
 
