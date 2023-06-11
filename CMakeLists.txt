@@ -9,7 +9,7 @@ if(benchmark_FOUND)
     message("hello")
 ENDIF()
 
-add_executable(LeetCodeSolutions 1802MaximumValueataGivenIndexinaBoundedArray.cpp)
+add_executable(LeetCodeSolutions 1146SnapshotArray.cpp)
 
 target_link_libraries(LeetCodeSolutions benchmark::benchmark)
 
