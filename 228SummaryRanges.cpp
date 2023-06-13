@@ -89,10 +89,6 @@ int main() {
 
     vi nums = {0,1,2,4,5,7};
 
-    for (auto m: summaryRanges(nums)) {
-        cout << m << " ";
-    }
-
 }
 
 

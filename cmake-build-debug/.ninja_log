@@ -59,7 +59,7 @@
 1	1709	1682962072150571041	CMakeFiles/LeetCodeSolutions.dir/Contests/WeeklyContest343/main.cpp.o	9dd9b827d2b437e9
 0	1528	1684742740098511148	CMakeFiles/LeetCodeSolutions.dir/Dynamic/221MaximalSquare.cpp.o	a35e6f58afa761de
 2	4094	1679575181673310101	CMakeFiles/LeetCodeSolutions.dir/Dynamic/DecodeWays.cpp.o	1febed48075c22dc
-1	21	1686602350064701113	build.ninja	d33d1547cd2036e5
+1	21	1686688080208669109	build.ninja	d33d1547cd2036e5
 1	3485	1685085889916546747	CMakeFiles/LeetCodeSolutions.dir/96UniqueBinarySearchTrees.cpp.o	3b7b1f7efb4a80ed
 0	4499	1680278581554115725	CMakeFiles/LeetCodeSolutions.dir/Dynamic/ScrambleString.cpp.o	e554e0861276da9b
 0	1839	1682959443192507556	CMakeFiles/LeetCodeSolutions.dir/Contests/WeeklyContest343/DeterminetheWinnerofaBowlingGame.cpp.o	287ed0b25ce5f6ac
@@ -187,3 +187,5 @@
 2	3658	1685104516586368923	CMakeFiles/LeetCodeSolutions.dir/337HouseRobberIII.cpp.o	c6505d1d02f7c91
 1	1786	1682788135950889939	CMakeFiles/LeetCodeSolutions.dir/Contest103/2657FindthePrefixCommonArrayofTwoArrays.cpp.o	ba6be64a15149215
 1	2585	1680445692556110511	CMakeFiles/LeetCodeSolutions.dir/Math/ReverseIntegers.cpp.o	408551905837acd8
+1	1660	1686688309025453211	CMakeFiles/LeetCodeSolutions.dir/2352EqualRowandColumnPairs.cpp.o	521b64b0d5f77950
+1661	1753	1686688309121455796	LeetCodeSolutions	1ac3df5d474e8eea

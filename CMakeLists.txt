@@ -9,7 +9,7 @@ if(benchmark_FOUND)
     message("hello")
 ENDIF()
 
-add_executable(LeetCodeSolutions 228SummaryRanges.cpp)
+add_executable(LeetCodeSolutions 2352EqualRowandColumnPairs.cpp)
 
 target_link_libraries(LeetCodeSolutions benchmark::benchmark)
 
