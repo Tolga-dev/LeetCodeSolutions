@@ -9,7 +9,7 @@ if(benchmark_FOUND)
     message("hello")
 ENDIF()
 
-add_executable(LeetCodeSolutions 2352EqualRowandColumnPairs.cpp)
+add_executable(LeetCodeSolutions 1187MakeArrayStrictlyIncreasing.cpp)
 
 target_link_libraries(LeetCodeSolutions benchmark::benchmark)
 

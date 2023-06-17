@@ -59,7 +59,7 @@
 1	1709	1682962072150571041	CMakeFiles/LeetCodeSolutions.dir/Contests/WeeklyContest343/main.cpp.o	9dd9b827d2b437e9
 0	1528	1684742740098511148	CMakeFiles/LeetCodeSolutions.dir/Dynamic/221MaximalSquare.cpp.o	a35e6f58afa761de
 2	4094	1679575181673310101	CMakeFiles/LeetCodeSolutions.dir/Dynamic/DecodeWays.cpp.o	1febed48075c22dc
-1	21	1686688080208669109	build.ninja	d33d1547cd2036e5
+1	21	1687032511957137963	build.ninja	d33d1547cd2036e5
 1	3485	1685085889916546747	CMakeFiles/LeetCodeSolutions.dir/96UniqueBinarySearchTrees.cpp.o	3b7b1f7efb4a80ed
 0	4499	1680278581554115725	CMakeFiles/LeetCodeSolutions.dir/Dynamic/ScrambleString.cpp.o	e554e0861276da9b
 0	1839	1682959443192507556	CMakeFiles/LeetCodeSolutions.dir/Contests/WeeklyContest343/DeterminetheWinnerofaBowlingGame.cpp.o	287ed0b25ce5f6ac
@@ -76,6 +76,7 @@
 1	5504	1678984026943813256	CMakeFiles/LeetCodeSolutions.dir/nextGreater4.cpp.o	f521164357413fd9
 2	4015	1684838743250985005	CMakeFiles/LeetCodeSolutions.dir/1218LongestArithmeticSubsequenceofGivenDifference.cpp.o	4daac15eac504a9
 1	1587	1683575571659226115	CMakeFiles/LeetCodeSolutions.dir/BinarySeacrh/1964FindtheLongestValidObstacleCourseatEachPosition.cpp.o	d1535cbcb976510
+1	1660	1686688309025453211	CMakeFiles/LeetCodeSolutions.dir/2352EqualRowandColumnPairs.cpp.o	521b64b0d5f77950
 2	3984	1684003702801066361	CMakeFiles/LeetCodeSolutions.dir/Contests/BiWeekly104/main.cpp.o	fd0e324777311c00
 1	1703	1669052329844704309	Subset/CMakeFiles/LeetCodeSolutions.dir/main.cpp.o	f706f1750e14bd
 2	3994	1683133616522266957	CMakeFiles/LeetCodeSolutions.dir/Hashmap/2215FindtheDifferenceofTwoArrays.cpp.o	3f05fbd8f56ad9b6
@@ -130,7 +131,7 @@
 0	1733	1681398188340305247	CMakeFiles/LeetCodeSolutions.dir/ReachableNodesInSubdividedGraph.cpp.o	e0de5bac9b5ed8a
 1	1765	1685014695282633109	CMakeFiles/LeetCodeSolutions.dir/188BestTimetoBuyandSellStockIV.cpp.o	6d4a125b9398aba2
 0	1853	1681136017171478897	CMakeFiles/LeetCodeSolutions.dir/battleships-field-validator.cpp.o	8ee254ccd49aec7b
-1441	1511	1686340680833974635	LeetCodeSolutions	99f434a2466ea484
+1661	1753	1686688309121455796	LeetCodeSolutions	1ac3df5d474e8eea
 1	1441	1686340680761973336	CMakeFiles/LeetCodeSolutions.dir/744FindSmallestLetterGreaterThanTarget.cpp.o	e44ed0e7faafa05e
 2	4183	1684432640162632634	CMakeFiles/LeetCodeSolutions.dir/1557MinimumNumberofVerticestoReachAllNodes.cpp.o	f4844d8ada165784
 2	4617	1678885449219081865	CMakeFiles/LeetCodeSolutions.dir/main.cpp.o	215a337de3b8d097
@@ -187,5 +188,3 @@
 2	3658	1685104516586368923	CMakeFiles/LeetCodeSolutions.dir/337HouseRobberIII.cpp.o	c6505d1d02f7c91
 1	1786	1682788135950889939	CMakeFiles/LeetCodeSolutions.dir/Contest103/2657FindthePrefixCommonArrayofTwoArrays.cpp.o	ba6be64a15149215
 1	2585	1680445692556110511	CMakeFiles/LeetCodeSolutions.dir/Math/ReverseIntegers.cpp.o	408551905837acd8
-1	1660	1686688309025453211	CMakeFiles/LeetCodeSolutions.dir/2352EqualRowandColumnPairs.cpp.o	521b64b0d5f77950
-1661	1753	1686688309121455796	LeetCodeSolutions	1ac3df5d474e8eea
