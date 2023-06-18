@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 #include <iostream>
 #include <cmath>
-//https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/
+//https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/description/
 using namespace std;
 #define vi vector<int>
 #define vvi vector<vi>
