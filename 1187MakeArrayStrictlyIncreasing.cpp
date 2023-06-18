@@ -113,11 +113,12 @@ int makeArrayIncreasing(vector<int>& p1, vector<int>& p2) {
     return lst.empty() ? -1 : lst.begin()->first;
 }
 
-int main() {
 
 
+int main(int argc, const char* argv[]) {
 
-    return 0;
+
+    return argc;
 }
 
 
