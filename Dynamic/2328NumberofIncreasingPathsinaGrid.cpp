@@ -35,34 +35,48 @@ int maxx(const int& _a, const int& _b)
     return _a;
 }
 
-int mod = 1e9+7;
-int f(int i, int j, int prev, vector<vector<int>> &grid, vector<vector<int>> &dp){
-    if(i<0 || j<0 || i>= grid.size() || j>= grid[0].size() || prev>= grid[i][j])
+int divider = 1e9 + 7;
+int finder(int i, int j, int prev, vvi& map, vvi& memo)
+{
+    if(i<0 || j<0 || i>= map.size() || j>= map[0].size() || prev>= map[i][j])
         return 0;
 
-    if(dp[i][j] != -1) return dp[i][j];
+    if(memo[i][j] != -1) return memo[i][j];
 
-    long long cnt = 1;
+    long long ans = 1;
 
-    cnt += f(i+1, j, grid[i][j], grid, dp)% mod;
-    cnt += f(i-1, j, grid[i][j], grid, dp) % mod;
-    cnt += f(i, j+1, grid[i][j], grid, dp) % mod;
-    cnt += f(i, j-1,  grid[i][j], grid, dp) % mod;
+    ans += finder(i+1, j, map[i][j], map, memo)% divider;
+    ans += finder(i-1, j, map[i][j], map, memo) % divider;
+    ans += finder(i, j+1, map[i][j], map, memo) % divider;
+    ans += finder(i, j-1,  map[i][j], map, memo) % divider;
 
-    return dp[i][j] = cnt;
+    return memo[i][j] = ans;
+
 }
 
-int countPaths(vector<vector<int>>& grid) {
-    long long cnt = 0, n= grid.size(), m= grid[0].size();
-    vector<vector<int>> dp(n, vector<int> (m, -1)); //dp table
-
-    for(int i=0; i<grid.size(); i++){
-        for(int j=0; j<grid[0].size(); j++){
-            cnt += f(i, j, -1, grid, dp);
+void print(vvi memo)
+{
+    for (auto m : memo) {
+        for (auto n : m) {
+            cout << n << " ";
         }
+        cout << endl;
     }
 
-    return cnt%mod;
+}
+
+int countPaths(vector<vector<int>>& map) {
+    ll ans = 0, n = map.size(), m = map[0].size();
+    vvi memo(n,vi(m,-1));
+
+    for (int i = 0; i < n; ++i) {
+        for (int j = 0; j < m; ++j) {
+            print(memo);
+            ans += finder(i,j,-1,map,memo);
+            print(memo);
+        }
+    }
+    return ans%divider;
 }
 
 int main(int argc, const char* argv[]) {
